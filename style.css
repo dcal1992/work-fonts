@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Buenos Aires';
+    src: local('Buenos Aires Light'), local('Buenos-Aires-Light'),
+        url('BuenosAires-Light.woff2') format('woff2'),
+        url('BuenosAires-Light.woff') format('woff'),
+        url('BuenosAires-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
